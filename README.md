@@ -1,1 +1,1 @@
-# Manipulaci-n-slice-float
+# Manipulacion-slice-float
